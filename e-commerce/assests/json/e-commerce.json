@@ -1,0 +1,60 @@
+{
+    "articles": [
+        {
+            "id": 399566,
+            "name1": "Black Widow",
+            "url": "./assets/img/br_blackwidow.jpg",
+            "stars": 4,
+            "price" : "24,99 €"
+
+        },
+        {
+            "id": 615678,
+            "name1": "Venom",
+            "url": "./assets/img/dvd venom.jpg",
+            "stars": 3,
+            "price" : "14,99 €"
+
+        },
+        {
+            "id": 460465,
+            "name1": "Avengers : Age of Ultron",
+            "url": "./assets/img/avengers.jpg",
+            "stars": 4.5,
+            "price" : "24,99 €"
+
+        },
+        {
+            "id": 791373,
+            "name1": "Figurine POP Captain America",
+            "url": "./assets/img/captainamericapop.jpg",
+            "stars": 5,
+            "price" : "15,00 €"
+            
+        },
+        {
+            "id": 634528,
+            "name1": "Figurine POP Spiderman ",
+            "url": "./assets/img/spiderman.jpg",
+            "stars": 4,
+            "price" : "17,00 €"
+
+        },
+        {
+            "id": 412656,
+            "name1": "Figurine POP Deadpool",
+            "url": "./assets/img/deadpool.jpg",
+            "stars": 4,
+            "price" : "19,00 €"
+
+        },
+        {
+            "id": 615457,
+            "name1": "Figurine POP Thanos",
+            "url": "./assets/img/thanos.jpg",
+            "stars": 4.5,
+            "price" : "20,00 €"
+
+        }
+    ]
+}

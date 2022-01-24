@@ -1,0 +1,25 @@
+.navbar{
+    border : 1px solid black;
+    height: 100px;
+    width : 100%;
+    background-color: #9B0606;
+    margin-left: auto;
+}
+
+.main-title{
+    color: white;
+    text-align: center;
+    background-color: #9B0606;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    border: 1px solid black;
+    height: 100px;
+    width: 100%;
+    background-color: #9B0606;
+}
